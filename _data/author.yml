@@ -1,5 +1,5 @@
-name: Paikwiki
-email: paikwiki@gmail.com
+name: Seokwoo Chung
+email: cattac81@gmail.com
 description: I draw a cat and a dog.
 copyright_year: 2018
 
@@ -9,6 +9,7 @@ exhibitions:
     list:
       - 〈Test Solo Exhibition〉, HelloWorld, 2017
       - 〈Test Solo Exhibition2〉, HelloWorld, 2017
+      -  하나더, 어딘가, 2016
   -
     title: Group Exhibitions
     list:
@@ -17,3 +18,8 @@ exhibitions:
       - 〈Test Group2 Exhibition〉, HelloWorld, 2017
       - 〈Test Group4 Exhibition〉, HelloWorld, 2017
       - 〈Test Group5 Exhibition〉, HelloWorld, 2017
+  -
+    title: 수상경력
+    list:
+      - 대상
+      - 우수
